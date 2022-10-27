@@ -1,10 +1,13 @@
 {
-  "name": "LjRgMuDnOArk3GpEyrECooMCqbp2MNnV3v5LSMHzaZPWZEUjhG",
+  "name": "ถ่ายทอดสดหวย มีคำตอบ - เว็บใหม่ 999lucky 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.28",
   "description": "ถ่ายทอดสดหวย เลขที่ใช้ในการออกรางวัล ต่อ ถ่ายทอดสดหวย 999Lucky ลัคกี้ หวยออนไลน์ มีหวยทุกชนิด ในตำแหน่งที่ 12345 จะไม่นับตำแหน่งแรกของผลทีั่ออกคือ 1 แต่จะเ",
   "repository": "https://github.com/gullibles-02/underdoor-08",
-  "keywords": ["ถ่ายทอดสดหวย","ถ่ายทอดสดหวย 999Lucky"],
+  "keywords": [
+    "ถ่ายทอดสดหวย",
+    "ถ่ายทอดสดหวย 999Lucky"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
