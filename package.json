@@ -1,13 +1,10 @@
 {
-  "name": "เว็บหวยสดพลัส เล่นที่ไหน - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "fFXGMVUP5hra3IBOgAJwlWu65glQ2LyxYWbZUERmtLd7el6dSd",
   "theme": "syntax",
   "version": "1.0.7",
   "description": "เว็บหวยสดพลัส แบ่งปันกันฟรีๆ ว่าด้วย เว็บหวยสดพลัส Huaysod หวยสด หวยออนไลน์ มีหวยทุกชนิด ที่นี่ที่เดียว แนวทางหวยมาเลย์ 17965 เว็บหวยสดพลัส เลขเด็ดหวยมาเลย",
   "repository": "https://github.com/gullibles-02/underdoor-08",
-  "keywords": [
-    "เว็บหวยสดพลัส",
-    "เว็บหวยสดพลัส Huaysod"
-  ],
+  "keywords": ["เว็บหวยสดพลัส","เว็บหวยสดพลัส Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
