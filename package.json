@@ -1,18 +1,10 @@
 {
-  "name": "ตรวจหวยย้อนหลัง 15 ปี ดูยังไง - เว็บใหม่ huaysod 2023 ล่าสุด",
+  "name": "UU198Uo2wFpJsrIBQO4fnda6yK46cOpUJMOOvDmtOWD4ka7cf4",
   "theme": "syntax",
   "version": "1.0.38",
   "description": "ตรวจหวยย้อนหลัง 15 ปี หมายเหตุ เนื่องจาก ตรวจหวยย้อนหลัง 15 ปี Huaysod หวยออนไลน์ อันดับหนึ่ง หวยมาเลย์ ( Magnum 4d 万能万字 ) หรือ หวยมาเลเซีย เป็นการออกรางวั",
   "repository": "https://github.com/gullibles-02/underdoor-08",
-  "keywords": [
-    "ตรวจหวยย้อนหลัง 15 ปี",
-    "ตรวจหวยย้อนหลัง",
-    "15",
-    "ปี",
-    "ตรวจหวยย้อนหลัง Huaysod",
-    "15 Huaysod",
-    "ปี Huaysod"
-  ],
+  "keywords": ["ตรวจหวยย้อนหลัง 15 ปี","ตรวจหวยย้อนหลัง","15","ปี","ตรวจหวยย้อนหลัง Huaysod","15 Huaysod","ปี Huaysod"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
