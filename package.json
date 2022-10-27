@@ -1,13 +1,10 @@
 {
-  "name": "สถิติหวยออกย้อนหลัง ดูยังไง - เว็บใหม่ choke 2023 ล่าสุด",
+  "name": "8PrZd7Au1hE3Mq1DBPmlysFlEy5cbKRzSeAEtmO3r0rorRvNTu",
   "theme": "syntax",
   "version": "1.0.27",
   "description": "สถิติหวยออกย้อนหลัง ผลการออกรางวัล เพื่อ สถิติหวยออกย้อนหลัง ที่ Choke เว็บหวยออนไลน์ อันดับหนึ่ง หวยฮานอย ( Xổ Số Hà NộI ) ทั้ง 3 แบบ ฮานอย ปกติฮานอย พิเศ",
   "repository": "https://github.com/gullibles-02/underdoor-08",
-  "keywords": [
-    "สถิติหวยออกย้อนหลัง",
-    "สถิติหวยออกย้อนหลัง Choke"
-  ],
+  "keywords": ["สถิติหวยออกย้อนหลัง","สถิติหวยออกย้อนหลัง Choke"],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
