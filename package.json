@@ -1,10 +1,16 @@
 {
-  "name": "jA4wZqxVDwGbIM0VedNGvTS8qmosy41uWJpdVQmUQn8GINqmGq",
+  "name": "โปรแกรมคํานวณหวยฮานอย excel เล่นที่ไหน - เว็บใหม่ huaylike 2023 ล่าสุด-",
   "theme": "syntax",
   "version": "1.0.19",
   "description": "โปรแกรมคํานวณหวยฮานอย excel เม็ดเดียว เมื่อ โปรแกรมคํานวณหวยฮานอย excel Huaylike หวยออนไลน์ อันดับหนึ่ง       51 951เลข 2 ตัว      53 57 58วิ่งรูด       5ข",
   "repository": "https://github.com/gullibles-02/underdoor-08",
-  "keywords": ["โปรแกรมคํานวณหวยฮานอย EXCEL","โปรแกรมคํานวณหวยฮานอย","EXCEL","โปรแกรมคํานวณหวยฮานอย Huaylike","EXCEL Huaylike"],
+  "keywords": [
+    "โปรแกรมคํานวณหวยฮานอย EXCEL",
+    "โปรแกรมคํานวณหวยฮานอย",
+    "EXCEL",
+    "โปรแกรมคํานวณหวยฮานอย Huaylike",
+    "EXCEL Huaylike"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
