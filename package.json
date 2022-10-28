@@ -1,10 +1,13 @@
 {
-  "name": "RvsGZXoCN8WrV6KIH9XS4CkJIe4s7rHmrCNEqmjtsUAg2ayT2A",
+  "name": "หวยหุ้นฮั่งเส็งบ่าย ได้อย่างไร - เว็บใหม่ huaydee 2023 ล่าสุด",
   "theme": "syntax",
   "version": "1.0.50",
   "description": "หวยหุ้นฮั่งเส็งบ่าย เงินเย็นคืออะไร ว่า หวยหุ้นฮั่งเส็งบ่าย Huaydee หวยออนไลน์ อันดับหนึ่ง เงินเย็นคือเงินที่แม้ว่าเราจะเสียไปเราก็สามารถดำเนินชีวิตต่อไปได",
   "repository": "https://github.com/gullibles-02/underdoor-08",
-  "keywords": ["หวยหุ้นฮั่งเส็งบ่าย","หวยหุ้นฮั่งเส็งบ่าย Huaydee"],
+  "keywords": [
+    "หวยหุ้นฮั่งเส็งบ่าย",
+    "หวยหุ้นฮั่งเส็งบ่าย Huaydee"
+  ],
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
